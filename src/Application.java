@@ -22,5 +22,8 @@ public class Application {
         System.out.println(m[max_num]);*/
         ToLine a = new ToLine(new int[][] {{1, 2}, {3, 4}, {5, 6}});
         int[] arr = a.resize();
+        System.out.println("hi");
+
+
     }
 }
